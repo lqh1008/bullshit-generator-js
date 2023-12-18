@@ -4,8 +4,8 @@
   "description": "",
   "main": "dist/bullshit-generator.cjs",
   "module": "index.js",
-  "bin": {  
-    "bullshit": "./bin/index.js"  
+  "bin": {
+    "bullshit": "./bin/index.js"
   },
   "type": "module",
   "directories": {
@@ -25,8 +25,8 @@
     "http-server": "^0.12.1"
   },
   "dependencies": {
-    "command-line-args": "^5.1.1",
-    "command-line-usage": "^6.1.0",
-    "moment": "^2.24.0"
+    "command-line-args": "^5.2.1",
+    "command-line-usage": "^6.1.3",
+    "moment": "^2.29.4"
   }
 }
