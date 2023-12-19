@@ -1,4 +1,4 @@
-import {build} from 'esbuild';
+import { build } from 'esbuild';
 
 build({
   entryPoints: ['./browser/index.js'],
