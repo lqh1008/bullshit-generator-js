@@ -7,7 +7,7 @@
   "bin": {
     "bullshit": "./bin/index.js"
   },
-  "type": "module",
+  "type": "commonjs",
   "directories": {
     "lib": "lib"
   },
